@@ -16,3 +16,4 @@ activity.log
 startup_diagnostics.log
 
 *.exe
+*.zip
